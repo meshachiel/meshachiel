@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things,...
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me mailto:Meshachiel@proton.me
+- 📫 How to reach me Meshachiel@proton.me
 
 <!---
 meshachiel/meshachiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
